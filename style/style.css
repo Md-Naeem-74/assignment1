@@ -1,0 +1,44 @@
+
+/* BANER SECTION */
+
+.baner{
+    width: 1280px;
+    height: 560px;
+    display: flex;
+    background-color: #C6E4D6;
+    padding-bottom: 117px;
+}
+.baner-content{
+    width: 622px;
+    height: 326px;
+    padding-top: 117px;
+    padding-right: 60px;
+    padding-left: 59px;
+}
+.btn-dsign{
+    width: 270px;
+    height: 56px;
+    font-size: 18px;
+    font-weight: 600px;
+    background-color: #006A50;
+    color: aliceblue;
+    border: none;
+    border-radius: 8px;
+}
+.nation{
+    font-size: 24px;
+    font-weight: 500px;
+    color: #0E0E0E;
+    opacity: 50%;
+}
+.description{
+    font-size: 54px;
+    font-weight: 700px;
+}
+.baner img{
+    width: 474px;
+    height: 400px;
+    padding-top: 80px;
+    padding-right: 59.99px;
+
+}
