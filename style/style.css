@@ -7,6 +7,7 @@
     display: flex;
     background-color: #C6E4D6;
     padding-bottom: 117px;
+    border-radius: 24px;
 }
 .baner-content{
     width: 622px;
@@ -40,5 +41,58 @@
     height: 400px;
     padding-top: 80px;
     padding-right: 59.99px;
+}
 
+/* Planning for future bangladesh */
+.title{
+    font-size: 40px;
+    font-weight: 700px;
+}
+.vision-container{
+    display: flex;
+    width: 100%;
+    gap: 24px;
+    padding-top: 40px;
+}
+.visions{
+    width: 385px;
+    padding-top: 32px;
+    padding-bottom: 35px;
+    border-radius: 16px;
+}
+.card1{
+    background-color: #83a5df;
+    padding-left: 32px;
+}
+.card2{
+    background-color: #C6E4D6;
+    padding-left: 32px;
+}
+.card3{
+    background-color: #F7EBCF;
+    padding-left: 32px;
+}
+.btn-color1{
+    background-color: #5490F5;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    width: 122px;
+    height: 41px;
+}
+.btn-color2{
+    background-color: #09A15C;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    width: 122px;
+    height: 41px;
+}
+.btn-color3{
+    background-color: #FFC239;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    width: 122px;
+    height: 41px;
 }
